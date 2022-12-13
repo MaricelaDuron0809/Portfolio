@@ -9,11 +9,11 @@
 
 	--themeDotBorder:#24292e;
 
-	--previewBg:rgb(251, 249, 243, 0.8);
-	--previewShadow:#88bac7e5;
+	--previewBg:rgba(251, 244, 243, 0.8);
+	--previewShadow:#ff6780;
 
 
-	--buttonColor:#77a8b4e5;
+	--buttonColor:#ff6780;
 
 
 }
